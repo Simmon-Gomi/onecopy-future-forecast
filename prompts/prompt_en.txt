@@ -1,0 +1,10 @@
+🔮 Predict {topic} 3-6 months ahead. Please answer in the format below:
+
+1) Big Picture (3 lines): Conclusion, key reason, one immediate action
+2) Future Scenarios: Optimistic / Realistic / Pessimistic - one line each (include likelihood)
+3) Key Milestones: Three events or metrics to watch in the next 3-6 months
+4) News Sources: Source | Date | 40-char summary ×3
+5) Action Guide: One-line advice for government, business, and individuals
+6) Deep-dive Analysis: If needed, please provide more detailed analysis
+
+Note: Natural language is fine. Keep it readable and concise.
