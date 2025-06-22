@@ -6,6 +6,13 @@ A specialized prompt for decoding the future from news and trends
 
 The Future Forecast edition is a dedicated prompt that constructs future scenarios 3-6 months ahead based on daily news and industry trends. Simply paste a news article you're curious about, and understand its impact and countermeasures in 5 minutes. As the only tool in the OneCopyThinker series focused on the future timeline, it supports decision-making in our highly uncertain times.
 
+## 🚀 Quick Start
+
+1. **Copy the prompt**: [Japanese](prompts/prompt_ja.txt) | [English](prompts/prompt_en.txt)
+2. **Paste into AI tool** (ChatGPT, Claude, Gemini, etc.)
+3. **Replace {topic}** or paste news article
+4. **Run and wait 5 minutes**
+
 ## 📚 Theoretical Background
 
 ### Why 3-6 Months?
@@ -67,6 +74,10 @@ The Future Forecast edition is a dedicated prompt that constructs future scenari
 
 Note: Natural language is fine. Keep it readable and concise.
 ```
+
+📄 **Prompt Files**:
+- [Japanese Version](prompts/prompt_ja.txt)
+- [English Version](prompts/prompt_en.txt)
 
 ## 🎯 Use Cases
 
